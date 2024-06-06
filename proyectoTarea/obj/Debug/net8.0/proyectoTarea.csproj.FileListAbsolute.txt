@@ -1,0 +1,31 @@
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\bin\Debug\net8.0\proyectoTarea.exe
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\bin\Debug\net8.0\proyectoTarea.deps.json
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\bin\Debug\net8.0\proyectoTarea.runtimeconfig.json
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\bin\Debug\net8.0\proyectoTarea.dll
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\bin\Debug\net8.0\proyectoTarea.pdb
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\proyectoTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\proyectoTarea.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\proyectoTarea.AssemblyInfo.cs
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\proyectoTarea.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\proyectoTarea.dll
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\refint\proyectoTarea.dll
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\proyectoTarea.pdb
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\proyectoTarea.genruntimeconfig.cache
+C:\Users\PC\Documents\PROGRA TAREAS 2024 CICLO1\proyectoTarea\obj\Debug\net8.0\ref\proyectoTarea.dll
+C:\Users\PC\Documents\XDDD\proyectoTarea\bin\Debug\net8.0\proyectoTarea.exe
+C:\Users\PC\Documents\XDDD\proyectoTarea\bin\Debug\net8.0\proyectoTarea.deps.json
+C:\Users\PC\Documents\XDDD\proyectoTarea\bin\Debug\net8.0\proyectoTarea.runtimeconfig.json
+C:\Users\PC\Documents\XDDD\proyectoTarea\bin\Debug\net8.0\proyectoTarea.dll
+C:\Users\PC\Documents\XDDD\proyectoTarea\bin\Debug\net8.0\proyectoTarea.pdb
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.AssemblyInfo.cs
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.dll
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\refint\proyectoTarea.dll
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.pdb
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.genruntimeconfig.cache
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\ref\proyectoTarea.dll
+C:\Users\PC\Documents\XDDD\proyectoTarea\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\XDDD\proyectoTarea\obj\Debug\net8.0\proyectoTarea.csproj.CopyComplete
